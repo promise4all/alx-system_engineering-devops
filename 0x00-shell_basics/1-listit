@@ -1,0 +1,2 @@
+#!/bin/bash
+ls #<= This command list all files in the current working directory.
