@@ -1,0 +1,2 @@
+#!/bin/bash
+cd /root #<= This should take my root user back to his home folder.
