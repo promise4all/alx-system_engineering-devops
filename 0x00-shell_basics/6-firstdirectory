@@ -1,0 +1,2 @@
+#!/bin/bash
+mkdir /tmp/my_first_directory #<-This command creates a new directory in the tmp folder
