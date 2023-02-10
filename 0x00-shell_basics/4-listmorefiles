@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -al #<= This command lists all files in long format.
