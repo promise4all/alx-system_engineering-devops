@@ -1,0 +1,2 @@
+#!/bin/bash
+rm *~ #<-This command removes all emacs files from the current directory

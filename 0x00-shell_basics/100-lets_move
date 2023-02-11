@@ -1,0 +1,2 @@
+#!/bin/bash
+mv ./[[:upper:]]* /tmp/u #<- This command moves all files beginning with an uppercase character to the /tmp/u directory

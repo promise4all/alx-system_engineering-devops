@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -mpa #<-This command lists comma separated lif os files with directories differentiated.
