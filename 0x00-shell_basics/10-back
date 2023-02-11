@@ -1,0 +1,2 @@
+#!/bin/bash
+cd - #<= This should take me back to my previous working directory.

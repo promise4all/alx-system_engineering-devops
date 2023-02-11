@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -al . .. /boot #<= This command lists all files in long format.
