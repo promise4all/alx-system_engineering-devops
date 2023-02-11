@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -p welcome/to/school #<-This command creates the folder welcome, to, and school in respective tree order.
+mkdir -p welcome/to/school
